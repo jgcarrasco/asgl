@@ -159,7 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-data
+
 .cometml-runs/c0081cbbbcfd4ebe9ee7344571278829-WeiKlk.zip
 checkpoints/2023_05_30_110700_0.pth
 checkpoints/2023_05_30_114038_0.pth
